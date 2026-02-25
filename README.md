@@ -1,48 +1,45 @@
-<!-- ========================== -->
-<!-- 🚀 ULTRA PREMIUM HEADER 🚀 -->
-<!-- ========================== -->
-
+<!-- 🔥 FUTURISTIC ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=2500&pause=800&color=FF00EA&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Manthan+Sahu;Full+Stack+Developer;AI+%26+ML+Explorer;Building+The+Future+With+Code+⚡;Welcome+To+My+Digital+Universe+🌌" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:6a00ff&height=250&section=header&text=Manthan%20Sahu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programmer%20%7C%20AI%20Enthusiast%20%7C%20Full%20Stack%20Learner&descAlignY=55&descAlign=50" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=&fontSize=0&color=0:FF00EA,100:6A00FF"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Solutions;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Reality;Welcome+To+My+Digital+Universe+%F0%9F%9A%80" />
 </p>
 
 ---
 
-# 👨‍💻 About Me  
+# 🧠 About Me  
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-💎 I'm **Manthan Sahu**, a passionate and performance-driven developer.  
-⚡ I build scalable, clean, and efficient software solutions.  
-🚀 Focused on writing optimized code that solves real-world problems.  
+✨ Hey, I'm **Manthan Sahu**  
+💻 Passionate about crafting efficient, scalable, and impactful software  
+🚀 Obsessed with growth, discipline, and consistency  
 
-- 🎓 Pursuing **B.Sc in Computer Science**
-- 🤖 Exploring **AI, Machine Learning & System Design**
-- 🌐 Love working with Web Technologies
-- 📈 Constantly improving my problem-solving skills
-- 🔥 Consistency + Discipline = Growth
+### 🎯 Current Focus
+- 🧠 AI & Machine Learning
+- 🌐 Full Stack Development
+- ⚙️ System Design Fundamentals
+- 📊 Problem Solving & DSA
 
 ---
 
-# 🛠 Tech Arsenal  
+# 🛠️ Tech Arsenal  
 
-## 🟢 Programming Languages
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,sql,rust,go" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,html,css" height="60" />
 </p>
 
-## 🔵 Frameworks & Databases
+### ⚡ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,bootstrap,tailwind,mongodb,postgresql,redux,graphql" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,tailwind,mongodb,flutter,tensorflow" height="60" />
 </p>
 
-## 🟣 Tools & Cloud
+### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,vercel,heroku,postman,figma,vscode,flutter,tensorflow,keras" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma" height="60" />
 </p>
 
 ---
@@ -50,9 +47,8 @@
 # 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manthansahu20&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00EA&icon_color=FF00EA" height="180"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=manthansahu20&theme=radical&hide_border=true&background=0D1117&ring=FF00EA&fire=FF00EA&currStreakLabel=FF00EA" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manthansahu20&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=FF00FF" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=manthansahu20&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF" height="180"/>
 </p>
 
 ---
@@ -60,7 +56,28 @@
 # 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manthansahu20&theme=tokyo-night&bg_color=0D1117&color=FF00EA&line=FF00EA&point=FFFFFF&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manthansahu20&theme=tokyo-night&bg_color=0D1117&color=FF00FF&line=FF00FF&point=FFFFFF&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manthansahu20&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
+
+---
+
+# 🌍 Let's Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manthan-sahu-31190b384/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+  </a>
+  <a href="mailto:manthansahusahu@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+  </a>
 </p>
 
 ---
@@ -73,23 +90,14 @@
 
 ---
 
-# 🌍 Connect With Me  
+# 💎 Developer Philosophy  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/manthan-sahu-31190b384/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
-  </a>
-  <a href="mailto:manthansahusahu@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="60"/>
-  </a>
-</p>
+> “Discipline builds consistency.  
+> Consistency builds mastery.  
+> Mastery builds legacy.”  
 
 ---
 
-# 🧠 Current Focus  
-
-```text
-• Advanced Data Structures & Algorithms  
-• Backend Architecture  
-• AI Model Building  
-• Open Source Contributions
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:ff00ff&height=120&section=footer"/>
+</p>
